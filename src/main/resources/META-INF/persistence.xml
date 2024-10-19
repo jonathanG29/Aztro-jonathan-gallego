@@ -4,6 +4,10 @@
         <class>org.example.Supermercado.models.Cliente</class>
         <class>org.example.Supermercado.models.Marca</class>
         <class>org.example.Supermercado.models.Producto</class>
+
+        <class>org.example.plataform_educativa.models.Estudiante</class>
+        <class>org.example.plataform_educativa.models.Curso</class>
+        <class>org.example.plataform_educativa.models.Profesor</class>
         <properties>
             <property name="jakarta.persistence.jdbc.driver"
                       value="org.postgresql.Driver"/>
