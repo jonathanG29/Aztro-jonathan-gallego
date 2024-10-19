@@ -8,6 +8,9 @@
         <class>org.example.plataform_educativa.models.Estudiante</class>
         <class>org.example.plataform_educativa.models.Curso</class>
         <class>org.example.plataform_educativa.models.Profesor</class>
+
+        <class>org.example.Biblioteca.models.Autores</class>
+        <class>org.example.Biblioteca.models.Usuarios</class>
         <properties>
             <property name="jakarta.persistence.jdbc.driver"
                       value="org.postgresql.Driver"/>
